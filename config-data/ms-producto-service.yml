@@ -5,7 +5,7 @@ spring:
     name: ms-producto-service
 
   datasource:
-    url: jdbc:mysql://localhost:3306/ms_producto
+    url: jdbc:mysql://localhost:3306/ms_catalogo2
     username: root
     password:
     driver-class-name: com.mysql.cj.jdbc.Driver
