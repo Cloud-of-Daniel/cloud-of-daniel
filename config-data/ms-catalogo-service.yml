@@ -2,7 +2,7 @@ server:
   port: 9092
 spring:
   application:
-    name: ms-catalogo-service
+    name: ms-producto-service
 
   datasource:
     url: jdbc:mysql://localhost:3306/ms_catalogo
